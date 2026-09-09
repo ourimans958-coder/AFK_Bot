@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK_bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "24AFKBot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "EraSMP-hU9A.aternos.me",
-    "port": 27438,
+    "port": 45826,
     "version": "1.21.11",
     "try-creative": false
   },
